@@ -13,7 +13,7 @@ const CompanyPage = () => {
     {
       year: '2020',
       title: '会社設立',
-      description: 'エンターテイメント業界の課題解決を目指し、EntertainProを設立'
+      description: 'エンターテイメント業界の課題解決を目指し、LIVENEXTを設立'
     },
     {
       year: '2021',
@@ -69,7 +69,7 @@ const CompanyPage = () => {
                 <Sparkles className="w-8 h-8 text-pink-500" />
               </div>
               <h1 className="text-4xl md:text-6xl font-bold">
-                EntertainPro
+                LIVENEXT
               </h1>
             </div>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto text-pink-100">
