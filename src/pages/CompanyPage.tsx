@@ -145,7 +145,7 @@ const CompanyPage = () => {
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6">
               数字で見る
               <span className="bg-gradient-to-r from-pink-500 to-purple-600 bg-clip-text text-transparent">
-                EntertainPro
+                LIVENEXT
               </span>
             </h2>
           </div>
@@ -266,7 +266,7 @@ const CompanyPage = () => {
                     </div>
                     <div>
                       <p className="font-medium text-gray-800">会社名</p>
-                      <p className="text-gray-600">株式会社EntertainPro</p>
+                      <p className="text-gray-600">株式会社LIVENEXT</p>
                     </div>
                   </div>
                   
